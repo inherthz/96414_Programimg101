@@ -1,3 +1,3 @@
-READMW.md
+README.md
 นายปฏิพล  กันโฮมภู
 
